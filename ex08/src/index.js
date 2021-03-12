@@ -1,4 +1,4 @@
-function main(numOne, numTwo){
+function main(){
 
     var myX = 12;
     var myY = 19;
